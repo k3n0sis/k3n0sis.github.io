@@ -53,3 +53,14 @@ footer a:hover {
     font-weight: 700;
     text-shadow: 2px antiquewhite;
 }
+
+#copyright {
+    font-size: small;
+    color: black;
+    text-align: center;
+    display: flex;
+}
+
+#copyright p {
+    flex: 1;
+}  
