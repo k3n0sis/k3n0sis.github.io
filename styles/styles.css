@@ -101,3 +101,14 @@ footer {
     border-color: black;
     text-shadow: 2px 2px 2px #000000;
     }
+
+    #copyright {
+        font-size: small;
+        color: antiquewhite;
+        text-align: center;
+        display: flex;
+    }
+
+    #copyright p {
+        flex: 1;
+    }    
